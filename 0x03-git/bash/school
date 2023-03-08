@@ -1,4 +1,4 @@
-#!/bin/bash\necho "ALX"
-echo #!/bin/bashecho "ALX"
+#!/bin/bash\necho "The school is open"
+echo #!/bin/bashecho "The school is open"
 #!/bin/bash
-echo "ALX"
+echo "The school is open"
